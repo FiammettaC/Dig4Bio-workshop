@@ -15,6 +15,15 @@ Python is one of the most popular languages in use today, thanks to its easy syn
 
 ## Installation
 The notebooks can be downloaded from GitHub and loaded in [Colab](https://colab.google/).
+Instructions:
+- Download the notebooks as .zip file
+- Extract the files
+- Open Google Colab
+- Press "New Notebook"
+- File > Upload Notebook (upload the notebook that you want to run, which you have previously downloaded and extracted from this GitHub repository)
+- Run the notebook and write code
+- To save your progress, File > Save a copy in Drive
+- Alternatively, you can do File > Download > Download .ipynb
 
 ## Helpful tips and tricks before starting
 "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements."

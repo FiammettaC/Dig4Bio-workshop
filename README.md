@@ -23,6 +23,7 @@ Instructions:
 - File > Upload Notebook (upload the notebook that you want to run, which you have previously downloaded and extracted from this GitHub repository)
 - Run the notebook and write code
 - To save your progress, File > Save a copy in Drive
+- File > Locate in Drive to know the location where it was saved
 - Alternatively, you can do File > Download > Download .ipynb
 
 ## Helpful tips and tricks before starting

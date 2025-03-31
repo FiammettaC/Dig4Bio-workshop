@@ -26,6 +26,13 @@ Instructions:
 - File > Locate in Drive to know the location where it was saved
 - Alternatively, you can do File > Download > Download .ipynb
 
+
+If you want to use Python through the Anaconda distribution, you can find instructions [here](https://github.com/FiammettaC/Chemical-Reaction-Engineering-in-Python/blob/main/installation_instructions.docx).
+
+Or watch the [video tutorial](https://drive.google.com/file/d/1JD-xaiPfCqbrU8kEEFfMyCaTrEYbSyWb/view?usp=sharing).
+
+For the video tutorials on the first three weeks of the course, check this [folder](https://drive.google.com/drive/folders/1eIRsWmd1AKE1qkJ5ubGg0JA-cXQcsjtq?usp=sharing).
+
 ## Helpful tips and tricks before starting
 "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements."
 

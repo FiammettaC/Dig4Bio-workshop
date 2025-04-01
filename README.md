@@ -1,5 +1,6 @@
 # Dig4Bio-workshop
-This course is designed to contain the code used during the "Introduction to Python" Dig4Bio workshop, hosted in Lisbon on 10-12/09/2024.
+This course is designed to contain the code used during the "Introduction to Python" Dig4Bio workshop, hosted in Lisbon on 10-12/09/2024. \n
+UPDATE: more material is added to the "models" folder, including two notebooks simulating a Design of Experiment workflow.
 
 ## TL;DR
 This is a practical course designed for chemical engineers that want to learn how to program in Python. The course is very practical and will cover various topics, such as basic Python syntax, solving ODEs and various types of models, such as diafiltration and cell lysis (downstream). 
